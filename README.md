@@ -48,7 +48,11 @@ Based on the sample transaction dataset:
 3. Configure SQL Server and update connection settings as needed.
 4. Run the Python analysis scripts from the `src` folder.
 5. Open the `.pbix` file in Power BI Desktop to explore the dashboard.
+## Power BI Dashboard
 
+![SME Finance Dashboard](power%20bi/dashboard.png)
+
+The dashboard visualizes business sales, expenses, and net profit using Power BI.
 ## Future Enhancements
 - Add more business transaction data.
 - Create monthly sales and expense trends.
