@@ -1,0 +1,7 @@
+transaction_date,business_name,category,amount,transaction_type
+2026-01-05,ABC Stores,Retail,25000,Sales
+2026-01-06,ABC Stores,Retail,8000,Expense
+2026-01-07,Fresh Foods,Food,18000,Sales
+2026-01-08,Fresh Foods,Food,6500,Expense
+2026-01-09,City Textiles,Textiles,32000,Sales
+2026-01-10,City Textiles,Textiles,12000,Expense
